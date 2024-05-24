@@ -1,2 +1,4 @@
 # NLP_SentimentAnalysis
- 
+ This project performs a sentiment analysis task on hotel reviews from TripAdvisor. Sentiment analysis is a natural language processing (NLP) technique used to determine whether a piece of text is positive, negative, or neutral. By analyzing customer reviews, we can gain information on the overall sentiment of hotel guests. Using that information we can build a model that accurately predicts the sentiment of hotel reviews. This could be helpful for hotel management to understand guest satisfaction and areas for improvement, thereby improving customer service and experience.
+
+We will be using the TripAdvisor Hotel Reviews dataset (https://www.kaggle.com/code/qusaybtoush1990/trip-advisor-hotel-reviews/input), which contains thousands of user reviews along with ratings. Each review is accompanied by a sentiment label.
